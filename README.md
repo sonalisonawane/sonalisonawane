@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalisonawane&label=Profile%20views&color=0e75b6&style=flat" alt="sonalisonawane" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonalisonawane" alt="sonalisonawane" /></a> </p>
+
 <img src="https://media.giphy.com/media/MY7GXqDzfF4gcF0CvI/giphy.gif" width="200" height="200" align="right" alt="developer"/>
 
 - 🌱 I’m currently learning **React, JavaScript,Ds and Algo.**
