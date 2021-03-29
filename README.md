@@ -1,8 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm sonali</h1>
 <h3 align="center">Happy Go Lucky Developer :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalisonawane&label=Profile%20views&color=0e75b6&style=flat" alt="sonalisonawane" /> </p>
-
 
 <img src="https://media.giphy.com/media/MY7GXqDzfF4gcF0CvI/giphy.gif" width="200" height="200" align="right" alt="developer"/>
 
@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonalisonawane&show_icons=true&locale=en" alt="sonalisonawane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalisonawane&" alt="sonalisonawane" /></p>
