@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/MY7GXqDzfF4gcF0CvI/giphy.gif" width="200" height="200" align="right" alt="developer"/>
 
-- 🌱 I’m currently learning **React, JavaScript,Ds and Algo.**
+- 🌱 I’m currently learning **Angular, JavaScript, Java , Springboot, Ds and Algo.**
 
 - 📫 How to reach me **sonawanesonali41@gmail.com**
 
